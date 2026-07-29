@@ -1,4 +1,4 @@
-# Bộ câu hỏi ôn tập Điều lệnh CAND
+# Bộ câu hỏi ôn tập & kiểm tra lý thuyết Điều lệnh CAND
 
 Cảm ơn đồng chí đã sử dụng phần mềm/bộ câu hỏi này.
 
